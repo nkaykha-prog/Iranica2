@@ -7,5 +7,87 @@
             "All images loaded in nkaykha-prog/Iranica2 project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://nkaykha-prog.github.io/Iranica2/images/ag-obj-118730-0001-rpd/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "ag-obj-118730-0001-rpd"
+                ]
+            },
+            "height": 1298,
+            "width": 2100,
+            "items": [
+                {
+                    "id": "https://nkaykha-prog.github.io/Iranica2/images/ag-obj-118730-0001-rpd/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://nkaykha-prog.github.io/Iranica2/images/ag-obj-118730-0001-rpd/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://nkaykha-prog.github.io/Iranica2/images/ag-obj-118730-0001-rpd/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 66,
+                                                "height": 41
+                                            },
+                                            {
+                                                "width": 132,
+                                                "height": 82
+                                            },
+                                            {
+                                                "width": 263,
+                                                "height": 163
+                                            },
+                                            {
+                                                "width": 525,
+                                                "height": 325
+                                            },
+                                            {
+                                                "width": 1050,
+                                                "height": 649
+                                            },
+                                            {
+                                                "width": 2100,
+                                                "height": 1298
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2100,
+                                        "@id": "https://nkaykha-prog.github.io/Iranica2/images/ag-obj-118730-0001-rpd",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1298,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://nkaykha-prog.github.io/Iranica2/images/ag-obj-118730-0001-rpd/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

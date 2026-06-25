@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 66,
+    "height" : 41
+  }, {
+    "width" : 132,
+    "height" : 82
+  }, {
+    "width" : 263,
+    "height" : 163
+  }, {
+    "width" : 525,
+    "height" : 325
+  }, {
+    "width" : 1050,
+    "height" : 649
+  }, {
+    "width" : 2100,
+    "height" : 1298
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2100,
+  "@id" : "https://nkaykha-prog.github.io/Iranica2/images/ag-obj-118730-0001-rpd",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1298
+}

@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 14,
+    "height" : 9
+  }, {
+    "width" : 27,
+    "height" : 18
+  }, {
+    "width" : 54,
+    "height" : 36
+  }, {
+    "width" : 108,
+    "height" : 72
+  }, {
+    "width" : 216,
+    "height" : 144
+  }, {
+    "width" : 432,
+    "height" : 288
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 432,
+  "@id" : "https://nkaykha-prog.github.io/Iranica2/images/Blessing_Figure-1LoRes",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 288
+}

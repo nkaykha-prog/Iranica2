@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://nkaykha-prog.github.io/Iranica2/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in nkaykha-prog/Iranica2 project"
+        ]
+    },
+    "items": []
+}

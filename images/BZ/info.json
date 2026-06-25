@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 59,
+    "height" : 87
+  }, {
+    "width" : 117,
+    "height" : 173
+  }, {
+    "width" : 233,
+    "height" : 345
+  }, {
+    "width" : 465,
+    "height" : 690
+  }, {
+    "width" : 930,
+    "height" : 1379
+  }, {
+    "width" : 1859,
+    "height" : 2757
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1859,
+  "@id" : "https://nkaykha-prog.github.io/Iranica2/images/BZ",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2757
+}
